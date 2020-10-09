@@ -11,7 +11,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://htejun.github.io',
-  baseUrl: '/testdocusaurus/',
+  baseUrl: '/testdocusaurus/website/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
