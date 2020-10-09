@@ -8,14 +8,22 @@
  */
 
 module.exports = {
+
+
+
+
+
+  url: 'https://dmitryvinn.github.io', // Your website URL
+  organizationName: 'dmitryvinn',
+  projectName: 'testdocusaurus',
+
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://facebook.github.io',
+
   baseUrl: '/testdocusaurus/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  
   themeConfig: {
     navbar: {
       title: 'My Facebook Project',
