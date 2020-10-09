@@ -10,8 +10,7 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://htejun.github.io/testdocusaurus/website/',
-  baseUrl: '/testdocusaurus/website/',
+  url: 'https://htejun.github.io/testdocusaurus',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
